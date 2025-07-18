@@ -1,6 +1,6 @@
 # WEATHER-APP
 
-"company":CODETECH IT SOLUTION
+"COMPANY":CODETECH IT SOLUTION
 
 "NAME":Girijala LakshmiGuna Yashwanth kumar
 
